@@ -1,0 +1,15 @@
+{
+    "1000":{
+        "error":"LOGIN - Incorrect credentials"
+    },
+    "1001":{
+        "error":"Not all the required data was reserved"
+    },
+    "1002":{
+        "error":"Could not be authenticated"
+    },
+    "1003":{
+        "error":"No endpoint found"
+    }
+}
+
